@@ -1,5 +1,5 @@
 # U-NET-for-medical-image-segmentation
-U-Net neural network architecture developed based on Ronneberger, Fischer and Bronx's work (2015) as a part of Computer Vision coursework at Imperial College London, taught by [@baiwenjia] (https://github.com/baiwenjia). 
+U-Net neural network architecture developed based on Ronneberger, Fischer and Bronx's work (2015) as a part of Computer Vision coursework at Imperial College London, taught by [@baiwenjia](https://github.com/baiwenjia). 
 
 **Requirements**  
 In order to run this code, you will need Jupyter-lab (https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) and other libraries used. To install those, run the command as follows:
